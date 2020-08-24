@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47e5959b2204e57f8d4551e9e97c2e91",
+    "revision": "fae0c3ec8a263af953bdc1fcc0bc801c",
     "url": "/flexthegallery/index.html"
   },
   {
-    "revision": "a864cea5a0cec30a68bb",
+    "revision": "2347eb4331d8f948a68d",
     "url": "/flexthegallery/static/css/main.a20d66d9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flexthegallery/static/js/2.2585a008.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a864cea5a0cec30a68bb",
-    "url": "/flexthegallery/static/js/main.7dffdd1b.chunk.js"
+    "revision": "2347eb4331d8f948a68d",
+    "url": "/flexthegallery/static/js/main.6564a470.chunk.js"
   },
   {
     "revision": "05f17639cc4e4a7c2a89",
